@@ -53,7 +53,7 @@ sections:
     title: A new home interior for summer
     subtitle: from $149.99
     image: images/item-5.jpg
-    background_image: images/computer-repairs-in-crawley.jpg
+    background_image: images/computer-diagnostic-in-crawley.jpg
     cta:
       title: Discover
       url: /store
