@@ -13,7 +13,7 @@ sections:
       Gaming Device or Smartphone and we'll take care of it.
 
     actions:
-      - title: See all items
+      - title: See all services
         url: /store
         arrow: true
         style: primary
