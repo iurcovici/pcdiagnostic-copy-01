@@ -1,6 +1,5 @@
 ---
 id: '1'
-price: '49.40'
 title: DATA BACKUP & RECOVERY
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
